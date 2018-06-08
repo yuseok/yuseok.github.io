@@ -9,7 +9,7 @@ permalink: /about/
 
 <hr><br>
 
-<img src="/images/girl1.jpeg" width="50%">
+<img src="/images/dodo_swift.jpg" alt="도도">
 
 - 개발 언어 (Languages)
     - Java
