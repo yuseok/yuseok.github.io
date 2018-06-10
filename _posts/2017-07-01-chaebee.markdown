@@ -22,6 +22,7 @@ Android | Node.js | MySQL | Google Analytics | FCM | opentok | sendbird | Paypal
 - SDK를 이용한 결제(Paypal), 구글 인앱 결제, Web API(Eximbay)의 세 가지 결제 시스템이 있습니다.
 - Google Map의 내장 기능 및 커스텀 UI를 활용한 여행 코스 보기 기능이 구현되어 있습니다.
 - 다국어 지원 (한국어 / 영어 / 중국어 등) [추가 개발 후 변경되었습니다.]
+- Git로 형상관리
 - Google Analytics가 반영되어 있습니다. (페이지 조회 및 API 호출)
 - FCM의 푸시 기능이 구현되어 있습니다.
 

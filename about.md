@@ -26,6 +26,9 @@ Yuseok about(Yuseok ys){
     - Eclipse
     - Visual Studio Code
     - MySQL WorkBench
+- 형상관리
+    - Git
+    - Subversion
 - 플랫폼 (Platforms)
     - Mobile
         - Android

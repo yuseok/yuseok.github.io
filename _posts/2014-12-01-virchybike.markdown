@@ -26,6 +26,7 @@ Android | iOS | Bluetooth LE (MLDP, Heart) | libVLC | Node.js | MariaDB | Cassan
 - WebSocket 기능을 활용하여 멀티 플레이 기능이 구현되어 있습니다.
 - libVLC를 사용하여 동영상 기능 사용시에 주행 속도에 따라 배속 조절을 합니다.
 - 다국어를 지원합니다. (영어 및 한국어)
+- Subversion으로 형상관리
 - 2016년 말에 출시하였습니다.
 
 #### 이미지

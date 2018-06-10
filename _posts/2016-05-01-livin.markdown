@@ -17,6 +17,7 @@ Android | Bluetooth LE (MLDP) | Node.js | MariaDB
 
 #### 개요
 - 스마트 샤워기를 블루투스(BLE)로 연동하는 안드로이드 어플리케이션입니다.
+- Subversion으로 형상관리.
 - 기기 관리 기능 및 회원 관리 기능이 있습니다.
 
 #### 이미지
