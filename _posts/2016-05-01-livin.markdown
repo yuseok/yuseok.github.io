@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Livin"
+date:   2016-05-01
+categories: Application
+---
+
+#### 개발 기간
+2016.5 ~ 2016.10
+
+### 개발 스펙
+Android | Bluetooth LE (MLDP) | Node.js | MariaDB
+
+#### 담당업무
+- 안드로이드 어플리케이션 제작 전반 담당
+- Node.js 서버 API 개발 및 운영
+
+#### 개요
+- 스마트 샤워기를 블루투스(BLE)로 연동하는 안드로이드 어플리케이션입니다.
+- 기기 관리 기능 및 회원 관리 기능이 있습니다.
+
+#### 이미지
+![Livin_0](/images/resized_livin_0.jpg)
+
+#### 관련 정보
+[제품 페이지](https://www.livinshower.com/)  
+[블루투스 연동](https://youtu.be/jqtH8PvPoF4)  
+[커스텀 UI](https://youtu.be/kz95nTESZt0)

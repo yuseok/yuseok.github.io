@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About iroiro
+title: About Yuseok
 permalink: /about/
 ---
-
-안드로이드 및 iOS 개발자 오유석입니다.<br>
-대한민국 서울에 거주하고 있습니다.
-
-<hr><br>
-
-<img src="/images/dodo_swift.jpg" alt="도도">
+{% highlight java %}
+Yuseok about(Yuseok ys){
+    /** 
+     * 안드로이드 및 iOS 개발자 오유석입니다.
+     * 대한민국 서울에 거주하고 있습니다. 
+    */
+    return ys;
+}
+{% endhighlight %}
+<img src="/images/resized_dodo_swift.jpg" alt="도도">
 
 - 개발 언어 (Languages)
     - Java

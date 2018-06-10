@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Alto shot"
+date:   2015-07-01
+categories: Application
+---
+
+#### 개발 기간
+2015.07 ~ 2018.09
+
+### 개발 스펙
+Android | iOS
+
+#### 담당업무
+- 안드로이드 및 iOS 어플리케이션 제작 담당
+
+#### 개요
+- 별도로 제작된 초음파 발생기에서 발생한 신호를 인식하여 리모콘 역할을 할 수 있는 어플리케이션입니다.
+- FFT로 음성 신호를 검출하여 동작하도록 구성되어 있습니다.
+- 데모 어플리케이션입니다.
+
+#### 이미지
+![Alto_0](/images/resized_alto_0.jpg)
+![Alto_1](/images/resized_alto_1.jpg)
