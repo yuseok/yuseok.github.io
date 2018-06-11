@@ -5,10 +5,19 @@ permalink: /about/
 ---
 {% highlight java %}
 Yuseok about(Yuseok ys){
-    /** 
+    /* 
      * 안드로이드 및 iOS 개발자 오유석입니다.
      * 대한민국 서울에 거주하고 있습니다. 
-    */
+     */
+    ys.lang.java = 8;
+    ys.lang.kotlin = 4;
+    ys.lang.swift = 5;
+    ys.lang.sql = 4;
+    ys.lang.javascript = 5;
+    ys.tools.androidStudio = true;
+    ys.tools.xcode = true;
+    ys.tools.visualStudioCode = true;
+    
     return ys;
 }
 {% endhighlight %}
