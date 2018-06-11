@@ -8,7 +8,7 @@ categories: Application
 #### 개발 기간
 2014.12 ~ 2018.03
 
-### 개발 스펙
+#### 개발 스펙
 Android | iOS | Bluetooth LE (MLDP, Heart) | libVLC | Node.js | MariaDB | Cassandra
 
 #### 담당업무
@@ -23,11 +23,11 @@ Android | iOS | Bluetooth LE (MLDP, Heart) | libVLC | Node.js | MariaDB | Cassan
 - 실제 자전거의 실감성을 올려주기 위해 실시간으로 해당 지형 및 자전거 스펙(기어비, 무게, 휠사이즈 등)을 - 실내 자전거에 반응 할 수 있도록 되어 있습니다.
 - [Strava](https://strava.com)와 연동하여 실제 코스를 재현하여 Google Map에서 이동 코스를 확인 하면서 운동할 수 있으며 개인 운동 데이터도 연동할 수 있게 되어 있습니다.
 - 표준 블루투스 심박계 연동이 가능합니다.
-- WebSocket 기능을 활용하여 멀티 플레이 기능이 구현되어 있습니다.
+- 멀티 플레이 기능이 구현되어 있습니다.
 - libVLC를 사용하여 동영상 기능 사용시에 주행 속도에 따라 배속 조절을 합니다.
-- 다국어를 지원합니다. (영어 및 한국어)
-- Subversion으로 형상관리
-- 2016년 말에 출시하였습니다.
+- 다국어를 지원. (영어 및 한국어)
+- 소스는 Subversion으로 형상관리
+- 2016년 말에 출시하여 꾸준히 업데이트 하였습니다.
 
 #### 이미지
 ![VirchyBike_0](/images/resized_virchybike_0.jpg)

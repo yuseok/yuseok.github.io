@@ -8,7 +8,7 @@ categories: Application
 #### 개발 기간
 2016.5 ~ 2016.10
 
-### 개발 스펙
+#### 개발 스펙
 Android | Bluetooth LE (MLDP) | Node.js | MariaDB
 
 #### 담당업무
