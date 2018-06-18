@@ -17,14 +17,14 @@ Android | Node.js | MySQL | Google Analytics | FCM | opentok | sendbird | Paypal
 - Node.js 서버 API 개발
 
 #### 개요
-- 외국인과 국내 여행 가이드간의 중계 플랫폼 어플리케이션입니다.
-- 채팅(1:1 및 오픈채팅) 및 화상 채팅 기능이 구현하였습니다.
-- Paypal, Eximbay, Google in-app billing의 세 가지 결제 시스템이 구현하였습니다.
+- 외국인과 국내 여행 가이드간의 중계 플랫폼 어플리케이션.
+- 채팅(1:1 및 오픈채팅) 및 화상 채팅 기능.
+- Paypal, Eximbay, Google in-app billing의 세 가지 결제 시스템 구현.
 - Google Map의 확장 기능 및 커스텀 UI를 활용.
-- 다국어 지원
-- 소스는 Git로 형상관리
-- Google Analytics가 반영되어 있습니다.
-- 푸시 기능이 구현되어 있습니다.
+- 다국어 지원.
+- 소스는 Git로 형상관리.
+- Google Analytics.
+- 푸시 기능 구현.
 
 #### 이미지
 ![Chaebee_0](/images/resized_chaebee_0.jpg)
